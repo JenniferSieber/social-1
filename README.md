@@ -1,0 +1,3 @@
+ejs
+mongoose
+passport
